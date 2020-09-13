@@ -131,7 +131,7 @@ export default function Home() {
 			/>
 			<div className="flex">
 				<img
-					src="https://raw.githubusercontent.com/saharsh/assets/master/saharsh/youngSaharsh.png?token=AG6TZTK7EL57OHX56KZRIY27M3FDA"
+					src="https://raw.githubusercontent.com/saharsh/assets/master/saharsh/pfp--2020__square.png?token=AG6TZTIECGLRBP5CVLAGCN27M3YUY"
 					style={{ borderRadius: '100%', width: '10em' }}
 				/>
 				<div className="text">
