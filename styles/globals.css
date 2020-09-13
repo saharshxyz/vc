@@ -13,6 +13,7 @@ body {
 h1 {
 	border-bottom: 2px currentColor solid;
 	width: max-content;
+	font-weight: bold;
 }
 
 a {
@@ -30,7 +31,6 @@ a {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-
 	position: absolute;
 	top: 0;
 	left: 0;

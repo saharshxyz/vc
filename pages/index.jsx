@@ -13,7 +13,7 @@ export default function Home() {
 					href="https://fonts.gstatic.com"
 				/>
 				<link
-					href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap"
+					href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap"
 					rel="stylesheet"
 				/>
 			</Head>
