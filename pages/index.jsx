@@ -21,7 +21,7 @@ export default function Home() {
 				params={{
 					particles: {
 						number: {
-							value: 38,
+							value: 48,
 							density: {
 								enable: true,
 								value_area: 1102.9757735883716,
