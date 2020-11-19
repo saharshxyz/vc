@@ -28,13 +28,13 @@ export default function Home() {
 							},
 						},
 						color: {
-							value: '#ffffff',
+							value: '#15283B',
 						},
 						shape: {
 							type: 'circle',
 							stroke: {
 								width: 0,
-								color: '#000000',
+								color: '#7A8C97',
 							},
 							polygon: {
 								nb_sides: 5,
