@@ -28,13 +28,13 @@ export default function Home() {
 							},
 						},
 						color: {
-							value: '#15283B',
+							value: '#15283b',
 						},
 						shape: {
 							type: 'circle',
 							stroke: {
 								width: 0,
-								color: '#7A8C97',
+								color: '#7a8c97',
 							},
 							polygon: {
 								nb_sides: 5,
@@ -68,7 +68,7 @@ export default function Home() {
 						line_linked: {
 							enable: true,
 							distance: 150,
-							color: '#ffffff',
+							color: '#7a8c97',
 							opacity: 0.4,
 							width: 1,
 						},
