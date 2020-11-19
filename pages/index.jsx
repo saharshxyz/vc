@@ -28,7 +28,7 @@ export default function Home() {
 							},
 						},
 						color: {
-							value: '#15283b',
+							value: '#7a8c97',
 						},
 						shape: {
 							type: 'circle',
