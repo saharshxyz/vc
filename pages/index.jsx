@@ -131,7 +131,7 @@ export default function Home() {
 			/>
 			<div className="flex">
 				<img
-					src="https://assets.saharsh.tech/saharsh/pfp--2019__square.jpg"
+					src="https://unavatar.now.sh/github/saharshxyz"
 					style={{ borderRadius: '100%', width: '10em' }}
 				/>
 				<div className="text">
